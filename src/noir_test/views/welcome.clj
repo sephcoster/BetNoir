@@ -22,8 +22,3 @@
     [:div#clickableThing "Click this text to see or hide something cool!"]
     [:div#showThing [:img {:src "http://upload.wikimedia.org/wikipedia/en/e/e8/Noir_vol_1.jpg"} ]]))
 
-(defpage "/BetNoir" []
-  (common/site-layout
-	[:h1 "BetNoir"]
-	[:h3 "Entendre, and Expression of Faith."]
-	[:p "Messing around with hiccup, Noir, and Clojure, and this is the place I've chosen to do it.  Thanks for stumbling upon this site, but there's unfortunately not a whole lot here for you, most likely."]))
