@@ -22,7 +22,7 @@
     [:div#clickableThing "Click this text to see or hide something cool!"]
     [:div#showThing [:img {:src "http://upload.wikimedia.org/wikipedia/en/e/e8/Noir_vol_1.jpg"} ]]))
 
-(defpage "/" []
+(defpage "/BetNoir" []
   (common/site-layout
 	[:h1 "BetNoir"]
 	[:h3 "Entendre, and Expression of Faith."]
