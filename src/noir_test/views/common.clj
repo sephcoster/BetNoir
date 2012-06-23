@@ -14,7 +14,7 @@
 (defpartial site-layout [& content]
   (html5 (include-js "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js")
     [:head
-      [:title "my site"]]
+      [:title "Experimenting with Noir"]]
     [:body
       [:div#wrapper
         content]]))
