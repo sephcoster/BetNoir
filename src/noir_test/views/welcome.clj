@@ -34,4 +34,7 @@
 					});"]
     [:h1#red "Bet Noir."]
     [:h3 "Entendre, Expression of Faith"]
-    [:p "Just a dude messing around with Noir, Clojure, and a couple of other things.  PRetty sure you won't find anything useful here but if you do, great."]))
+    [:p "Just a dude messing around with Noir, Clojure, and a couple of other things.  PRetty sure you won't find anything useful here but if you do, great."]
+    [:div.span4 "Testing" ]
+    [:div.span4 "Testing 2"]
+    ))

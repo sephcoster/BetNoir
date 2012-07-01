@@ -1,0 +1,9 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+form fieldset ol {
+  list-style-type: none;
+  margin: 0;
+}
